@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gr1vFynaFd9Tjo4HBfs4DKp5kAOVrkbIIMktyvEyEgjRN+phTF3Vr2uB5ZqfqEiaoGFaA4aORejpikiehMuTUg==",
+  "dgSpecHash": "QTdQv1G0T+mZ5V5speXM7iGb6HPSv03QOl6YwvJynO1AXZO1czTZZf5H2UgZ8FYqniB6cDOpFULjhuPDHY21jA==",
   "success": true,
-  "projectFilePath": "D:\\專案\\FileList\\FileList.Model\\FileList.Model.csproj",
+  "projectFilePath": "D:\\GitHub\\FileList\\FileList.Model\\FileList.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

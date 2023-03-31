@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8gHdbs7apXzxLBtoQoIo+Mh8jnzLEh4PtPX7GEN/4nQMdGnR+yJjOXO8AVR2KV//5tkHSWDQ76yTx9131cDI2Q==",
+  "dgSpecHash": "Qle+yv3gh8GsrE5dNUHEi8nNjVZmNcpBsgiZCN8my/0CWKYT428/iDAyhR0EfR0VZLAZzepVfViNAs0Gj7bGjw==",
   "success": true,
-  "projectFilePath": "D:\\專案\\FileList\\FileList\\FileList.csproj",
+  "projectFilePath": "D:\\GitHub\\FileList\\FileList\\FileList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccy93\\.nuget\\packages\\log4net\\2.0.13\\log4net.2.0.13.nupkg.sha512",
     "C:\\Users\\ccy93\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

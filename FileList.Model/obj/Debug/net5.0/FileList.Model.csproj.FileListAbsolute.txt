@@ -1,0 +1,12 @@
+D:\GitHub\FileList\FileList.Model\bin\Debug\net5.0\FileList.Model.deps.json
+D:\GitHub\FileList\FileList.Model\bin\Debug\net5.0\FileList.Model.dll
+D:\GitHub\FileList\FileList.Model\bin\Debug\net5.0\FileList.Model.pdb
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\FileList.Model.csproj.AssemblyReference.cache
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\FileList.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\FileList.Model.AssemblyInfoInputs.cache
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\FileList.Model.AssemblyInfo.cs
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\FileList.Model.csproj.CoreCompileInputs.cache
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\FileList.Model.dll
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\refint\FileList.Model.dll
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\FileList.Model.pdb
+D:\GitHub\FileList\FileList.Model\obj\Debug\net5.0\ref\FileList.Model.dll
